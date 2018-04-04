@@ -1,0 +1,10 @@
+E:\Source Control\TestProjects\WebAppAzure\bin\Debug\netcoreapp2.0\WebAppAzure.deps.json
+E:\Source Control\TestProjects\WebAppAzure\bin\Debug\netcoreapp2.0\WebAppAzure.runtimeconfig.json
+E:\Source Control\TestProjects\WebAppAzure\bin\Debug\netcoreapp2.0\WebAppAzure.runtimeconfig.dev.json
+E:\Source Control\TestProjects\WebAppAzure\bin\Debug\netcoreapp2.0\WebAppAzure.dll
+E:\Source Control\TestProjects\WebAppAzure\bin\Debug\netcoreapp2.0\WebAppAzure.pdb
+E:\Source Control\TestProjects\WebAppAzure\obj\Debug\netcoreapp2.0\WebAppAzure.csproj.CoreCompileInputs.cache
+E:\Source Control\TestProjects\WebAppAzure\obj\Debug\netcoreapp2.0\WebAppAzure.AssemblyInfoInputs.cache
+E:\Source Control\TestProjects\WebAppAzure\obj\Debug\netcoreapp2.0\WebAppAzure.AssemblyInfo.cs
+E:\Source Control\TestProjects\WebAppAzure\obj\Debug\netcoreapp2.0\WebAppAzure.dll
+E:\Source Control\TestProjects\WebAppAzure\obj\Debug\netcoreapp2.0\WebAppAzure.pdb
